@@ -1,1 +1,3 @@
 # tictactoe
+
+npm install
